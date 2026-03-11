@@ -1,0 +1,24 @@
+
+body{
+    background-color: rgb(172, 198, 210);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.white {
+    background-color: white;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+
+.removed {
+    color: red;
+    font-weight: bold;
+}
+
+
+.removed-count {
+    color: green;
+}
